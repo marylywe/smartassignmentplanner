@@ -1,0 +1,2 @@
+# smartassignmentplanner
+Group: SinCosTan
